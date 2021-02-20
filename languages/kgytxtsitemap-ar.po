@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP TXT Sitemap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-23 10:34+0000\n"
+"PO-Revision-Date: 2020-03-23 10:34+0000\n"
+"Last-Translator: kgy <kuegy.com@gmail.com>\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: wp-txt-sitemap.php:157
+msgid ""
+"auto generated, Go to <a href=\"options-reading.php#wptxtsitemap\">WP TXT "
+"Sitemap settings.</a>"
+msgstr ""
+"تم إنشاؤها تلقائيًا، توجّه إلى <a href=\"options-reading.php#wptxtsitemap\">"
+"الإعدادات > قراءة</a> للتحكم في إعدادات خرائط txt."
+
+#: wp-txt-sitemap.php:173
+msgid " not writable, ask your hosting provider to set correct permessions."
+msgstr ""
+"غير قابل للإنشاء أو الكتابة، اطلب من مستضيفك أن يقوم بمراجعة تصاريح المجلد "
+"الرئيسي لووردبريس."
+
+#. ID used to identify this section and with which to register options
+#: includes/init.php:18
+msgid "WP TXT Sitemap Options"
+msgstr "إعدادات الخرائط النصية (TXT)"
+
+#. ID used to identify the field throughout the theme
+#: includes/init.php:26
+msgid "TXT Sitemap Content"
+msgstr "محتوى الخريطة"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: includes/init.php:31
+msgid "kgytxtsitemap callbacks"
+msgstr ""
+
+#. ID used to identify this section and with which to register options
+#: includes/init.php:38
+msgid "Sitemap Ping Options"
+msgstr "تنبيه محرّكات البحث"
+
+#: includes/init.php:44
+msgid "Auto ping"
+msgstr "التنبيه التلقائي"
+
+#: includes/init.php:49
+msgid "Auto ping Google"
+msgstr "تنبيه Google"
+
+#: includes/callbacks.php:19
+msgid "Last Updated:"
+msgstr "تم إنشاؤها في:"
+
+#: includes/callbacks.php:23
+msgid "WP TXT Sitemap Not Created Yet"
+msgstr "لم يتم إنشاء الخريطة بعد."
+
+#. echo '<p>Auto Ping Google and Bing when sitemap updated.</p>';
+#: includes/callbacks.php:33
+msgid "<p>Auto Ping Google and Bing when sitemap updated.</p>"
+msgstr "<p>إشعار Google و Bing تلقائيًا عند تحديث الخريطة.</p>"
+
+#. echo '<p>Auto Ping Google and Bing when sitemap updated.</p>';
+#: includes/callbacks.php:39
+msgid "<p>Choose when WP TXT Sitemap plugin update sitemap.txt file.</p>"
+msgstr "<p>حدّد متى تقوم الإضافة بتحديث ملف الخريطة sitemap.txt.</p>"
+
+#. Name of the plugin
+msgid "WP TXT Sitemap"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP TXT Sitemap creates an TXT Sitemap For your website. <a href=\"options-"
+"reading.php#wptxtsitemap\">Options</a>."
+msgstr ""
+"إضافة WP TXT Sitemap من كويجي تقوم بإنشاء خرائط نصيّة TXT لتمكين محرّكات "
+"البحث من سرعة الوصول إلى روابط موقعك وتسريع أرشفتها. توجّه إلى <a "
+"href=\"options-reading.php#wptxtsitemap\">إعدادات الإضافة</a>."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://keugy.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "kuegy"
+msgstr ""
