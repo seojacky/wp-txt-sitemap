@@ -1,7 +1,7 @@
-Аналоги:
+Плагины для пинга:
 
-* https://ru.wordpress.org/plugins/wp-txt-sitemap/
+* Этот https://ru.wordpress.org/plugins/wp-txt-sitemap/
 
-* https://wordpress.org/plugins/sitemap-index/
+* Аналог https://wordpress.org/plugins/sitemap-index/
 
 Stop Yoast’s WordPress SEO Plugin from Pinging / Resubmitting Your XML Sitemap: https://joshuawinn.com/stop-yoast-pinging-resubmitting-xml-sitemap/
